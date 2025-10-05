@@ -128,7 +128,7 @@ Database Expertise
 
 <div align="center">
 
-## 🌟 Featured Projects
+## 🌟 My Best Top 3 Projects
 
 </div>
 
