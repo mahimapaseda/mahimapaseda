@@ -20,6 +20,18 @@ With a strong foundation in both frontend and backend technologies, I specialize
 
 ---
 
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://mahimapaseda.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahimapaseda" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.youtube.com/@mahimapaseda" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" /></a>
+  <a href="https://www.instagram.com/mahi_pase_2002" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://www.facebook.com/mahima.paseda" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook" /></a>
+</p>
+
+---
+
 ### 🧩 Snapshot
 
 | Metric | Value |
@@ -30,22 +42,60 @@ With a strong foundation in both frontend and backend technologies, I specialize
 
 ---
 
-### ⚙️ Skills & Expertise
+## ⚙️ Skills & Expertise  
 
-#### 🖥️ Frontend Development
-`HTML5` • `CSS3` • `JavaScript` • `React` • `Bootstrap` • `SASS/SCSS`
+### 🖥️ Frontend Development  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="SASS" />
+</p>
 
-#### ⚙️ Backend Development
-`Java` • `Node.js` • `Express.js` • `MySQL` • `MongoDB` • `RESTful APIs`
+---
 
-#### 🧰 Development Tools
-`Git & GitHub` • `Version Control` • `Debugging` • `Cloud Deployment` • `Responsive Design` • `Agile Development`
+### ⚙️ Backend Development  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
+</p>
 
-#### 💻 Programming Languages
-`Java` • `JavaScript` • `Kotlin` • `C/C++` • `SQL` • `JSON/XML`
+---
 
-#### 🎯 Other Skills
-`Leadership` • `Videography` • `Photography` • `Editing` • `Event Management` • `Project Management` • `Technology Consulting`
+### 🧰 Development Tools  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="Cloud" />
+</p>
+
+---
+
+### 💻 Programming Languages  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="40" alt="JSON" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="40" alt="XML" />
+</p>
+
+---
+
+### 🎯 Other Skills  
+💼 Leadership • 🎥 Videography • 📸 Photography • ✂️ Editing  
+🎤 Event Management • 📊 Project Management • 🧠 Technology Consulting  
 
 ---
 
@@ -101,7 +151,7 @@ With a strong foundation in both frontend and backend technologies, I specialize
 
 ---
 
-### 📊 GitHub Insights & Animations
+### 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MahimaPaseda&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
@@ -118,17 +168,7 @@ With a strong foundation in both frontend and backend technologies, I specialize
 
 ---
 
-### 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://mahimapaseda.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mahimapaseda" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.youtube.com/@mahimapaseda" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" /></a>
-  <a href="https://www.instagram.com/mahi_pase_2002" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram" /></a>
-  <a href="https://www.facebook.com/mahima.paseda" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook" /></a>
-</p>
-
----
 
 ### 🎨 Fun Touch
 
