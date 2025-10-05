@@ -55,7 +55,7 @@ With a strong foundation in both frontend and backend technologies, I specialize
 > A comprehensive official website for Delta Gemunupura College featuring school information, academic programs, news updates, gallery, contact details, and an admin portal. Built with modern web technologies and responsive design.
 
 **Tech Stack:** `HTML5` • `CSS3` • `JavaScript` • `Bootstrap` • `Responsive Design`  
-🔗 [Live Site](https://mahimapaseda.vercel.app/) | 💻 [Source Code](#)
+🔗 [Live Site](https://deltagemunupuracollege.lk/) | 💻 [Source Code](#)
 
 ---
 
@@ -64,7 +64,7 @@ With a strong foundation in both frontend and backend technologies, I specialize
 > Features multi-layer security, staff management, student records, asset tracking, and exam management.
 
 **Tech Stack:** `Kotlin` • `Android` • `Firebase` • `Material Design` • `MVVM`  
-💻 [Source Code](#)
+💻 [Source Code](https://github.com/mahimapaseda/Delta-Gemunupura-College-School-DBMS)(#)
 
 ---
 
@@ -72,7 +72,7 @@ With a strong foundation in both frontend and backend technologies, I specialize
 > My Year 1 Semester 2 individual project — a comprehensive e-commerce backend featuring product management, user authentication, and order processing.
 
 **Tech Stack:** `PHP` • `JavaScript` • `SQL` • `MySQL`  
-💻 [Source Code](#)
+💻 [Source Code](https://github.com/mahimapaseda/Y1S2-e-commerce-individual-)(#)
 
 ---
 
