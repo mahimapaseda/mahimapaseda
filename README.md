@@ -1,34 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:134E4A&height=160&section=header&text=Mahima%20Paseda%20Kusumsiri&fontSize=42&fontAlignY=40&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:D97706&height=140&section=header&text=Mahima%20Paseda%20Kusumsiri&fontSize=40&fontAlignY=50&fontColor=fff&desc=Software%20Engineer&descAlignY=72&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&random=false&width=620&lines=Software+Engineer;Full-Stack+%26+Backend+Systems;AI%2FML+%26+Scalable+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&random=false&width=640&lines=Software+Engineer;Full-Stack+%26+Backend+Systems;AI%2FML+%26+Scalable+Web+Apps" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://mahimapaseda.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-mahimapaseda.vercel.app-0D9488?style=for-the-badge&labelColor=0f172a"/></a>
+<a href="https://mahimapaseda.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-F59E0B?style=for-the-badge&labelColor=0f172a"/></a>
 <a href="https://www.linkedin.com/in/mahimapaseda"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"/></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/status-available_for_collaborations-0D9488?style=flat-square&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/status-available_for_collaborations-F59E0B?style=flat-square&labelColor=0f172a"/>
 
 </div>
 
 ---
 
-## About
+## Intro
 
-Software Engineer and Computer Science student at **SLIIT City UNI** (2023–2027). Building full-stack products, backend systems, and AI/ML-aware web apps. Currently **Software Engineer at Applantics** and **Full-Stack Web Developer at Delta Gemunupura College**.
+Software Engineer and Computer Science student at **SLIIT City UNI** (2023–2027), based in Pussellawa, Sri Lanka. I build full-stack products, backend systems, and AI/ML-aware web applications.
 
-```js
-const mahima = {
-  roles: ["Software Engineer @ Applantics", "Full-Stack Developer @ Delta Gemunupura College"],
-  focus: ["Full-Stack", "Backend Systems", "AI/ML", "Scalable Web Apps"],
-  base: "Pussellawa, Sri Lanka",
-  learning: ["Cloud Computing", "AI", "Software Architecture"],
-};
-```
+I currently work as a **Software Engineer at Applantics** and a **Full-Stack Web Developer at Delta Gemunupura College**, shipping tools that improve learning systems and scalable product experiences.
 
 **10+ projects** · **2+ years coding** · **10+ technologies in active use**
 
@@ -36,22 +29,45 @@ const mahima = {
 
 ## Featured work
 
-### [MPK Library System](https://github.com/mahimapaseda/MPK-Library-System)
-Open-source Integrated Library System for schools and colleges — accession-level cataloging, member portal, POS-style issue desk, automated fines, and PDF reports.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-`Laravel` · `Vue 3` · `Inertia.js` · `Tailwind CSS`
+### [MPK Library System](https://github.com/mahimapaseda/MPK-Library-System)
+
+Open-source ILS for schools and colleges — accession cataloging, member portal, issue desk, automated fines, PDF reports.
+
+`Laravel` · `Vue 3` · `Inertia` · `Tailwind`
+
+[Source →](https://github.com/mahimapaseda/MPK-Library-System)
+
+</td>
+<td width="33%" valign="top">
 
 ### [The Local Cart](https://github.com/mahimapaseda/localcart-ecommerce)
-Production MERN e-commerce on Vercel, Render, and MongoDB Atlas with JWT auth, admin analytics, and Swagger docs.
 
-`React` · `Node.js` · `Express` · `MongoDB` · [Live demo](https://localcart-ecommerce.vercel.app/)
+Production MERN e-commerce on Vercel, Render, and MongoDB Atlas — JWT auth, admin analytics, Swagger docs.
 
-### [Delta Gemunupura College DBMS](https://github.com/mahimapaseda/Delta-Gemunupura-College-School-DBMS)
-Android school management system (featured in national newspapers) — staff/student records, exams, timetables, asset tracking.
+`React` · `Node` · `Express` · `MongoDB`
 
-`Kotlin` · `Android` · `Firebase` · `MVVM`
+[Live](https://localcart-ecommerce.vercel.app/) · [Source →](https://github.com/mahimapaseda/localcart-ecommerce)
 
-[View all projects →](https://mahimapaseda.vercel.app/projects)
+</td>
+<td width="33%" valign="top">
+
+### [Delta College DBMS](https://github.com/mahimapaseda/Delta-Gemunupura-College-School-DBMS)
+
+Android school management system featured in national newspapers — staff, students, exams, timetables.
+
+`Kotlin` · `Firebase` · `MVVM`
+
+[Source →](https://github.com/mahimapaseda/Delta-Gemunupura-College-School-DBMS)
+
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://mahimapaseda.vercel.app/projects"><strong>View all projects →</strong></a></p>
 
 ---
 
@@ -89,7 +105,7 @@ Arduino · NodeMCU · ESP32
 
 ---
 
-## Updates & credentials
+## Recent wins & credentials
 
 | When | Note |
 |------|------|
@@ -99,11 +115,23 @@ Arduino · NodeMCU · ESP32
 
 ![AWS](https://img.shields.io/badge/AWS-AI_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google-Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
-![QA](https://img.shields.io/badge/Quality_Assurance-0D9488?style=flat-square&labelColor=0f172a)
+![QA](https://img.shields.io/badge/Quality_Assurance-F59E0B?style=flat-square&labelColor=0f172a)
 
 ---
 
-## Experience
+## Career
+
+**Software Engineer** — Applantics · Feb 2026 – Present  
+Scalable architectures, backend services/APIs, performance and delivery with cross-functional teams.
+
+**Full-Stack Web Developer** — Delta Gemunupura College · Aug 2024 – Present  
+Responsive web apps, Java/backend and database work for students and staff.
+
+**Digital Content Manager & Social Media Manager** — Delta Gemunupura College · May 2020 – Present  
+Institutional digital presence, multimedia content, and brand-consistent distribution.
+
+**Freelance Developer & Multimedia Professional** — Self-employed · 2019 – Present  
+Web/mobile builds, multimedia production, and technical content for clients.
 
 ```mermaid
 gantt
@@ -124,8 +152,8 @@ gantt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MahimaPaseda&show_icons=true&theme=transparent&hide_border=true&title_color=0D9488&icon_color=0D9488&text_color=94a3b8&bg_color=00000000" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahimaPaseda&layout=compact&theme=transparent&hide_border=true&title_color=0D9488&text_color=94a3b8&bg_color=00000000&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MahimaPaseda&show_icons=true&theme=transparent&hide_border=true&title_color=F59E0B&icon_color=F59E0B&text_color=cbd5e1&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahimaPaseda&layout=compact&theme=transparent&hide_border=true&title_color=F59E0B&text_color=cbd5e1&bg_color=00000000&langs_count=8" height="165"/>
 
 </div>
 
@@ -135,8 +163,8 @@ gantt
 
 <div align="center">
 
-<a href="mailto:mahimapasedakusumsiri@gmail.com"><img src="https://img.shields.io/badge/Email-mahimapasedakusumsiri@gmail.com-0D9488?style=flat-square&logo=gmail&logoColor=white&labelColor=0f172a"/></a>
-<a href="tel:+94770114407"><img src="https://img.shields.io/badge/Phone-+94_77_011_4407-0D9488?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0f172a"/></a>
+<a href="mailto:mahimapasedakusumsiri@gmail.com"><img src="https://img.shields.io/badge/Email-mahimapasedakusumsiri@gmail.com-F59E0B?style=flat-square&logo=gmail&logoColor=white&labelColor=0f172a"/></a>
+<a href="tel:+94770114407"><img src="https://img.shields.io/badge/Phone-+94_77_011_4407-F59E0B?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0f172a"/></a>
 <a href="https://www.youtube.com/@mahimapaseda"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=0f172a"/></a>
 <a href="https://www.instagram.com/mahi_pase_2002"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0f172a"/></a>
 
@@ -144,8 +172,10 @@ gantt
 
 > *Code with purpose. Design with passion. Build with vision.*
 
-<img src="https://komarev.com/ghpvc/?username=MahimaPaseda&color=0d9488&style=flat-square&label=Profile+Views"/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,100:0D9488&height=100&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=MahimaPaseda&color=f59e0b&style=flat-square&label=Profile+Views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:D97706&height=90&section=footer" width="100%"/>
 
 </div>
