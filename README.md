@@ -1,13 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:D97706&height=140&section=header&text=Mahima%20Paseda%20Kusumsiri&fontSize=38&fontAlignY=48&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%26%20Backend%20Systems&descAlignY=72&descSize=16" width="100%" alt="Mahima Paseda Kusumsiri — Software Engineer, Full-Stack and Backend Systems"/>
+<img src="./assets/header-banner.svg" width="100%" alt="Mahima Paseda Kusumsiri — Software Engineer, Full-Stack and Backend Systems"/>
 
 # Mahima Paseda Kusumsiri
 
 **Software Engineer · Full-Stack & Backend Systems · AI/ML-Aware Web Applications**  
 *Pussellawa, Sri Lanka · BSc Computer Science Student at SLIIT City UNI (2023–2027)*
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&random=false&width=640&lines=Full-Stack+%26+Backend+Software+Engineer;Building+Scalable+Web+%26+Mobile+Systems;Laravel+%E2%80%A2+MERN+Stack+%E2%80%A2+Kotlin+%E2%80%A2+AI%2FML" alt="Animated typing tagline: Full-Stack & Backend Software Engineer, Building Scalable Web & Mobile Systems, Laravel, MERN Stack, Kotlin, AI/ML" />
 
 <br/>
 
@@ -78,7 +76,7 @@ Currently, he works as a **Software Engineer at Applantics** and a **Full-Stack 
 </table>
 
 <p align="center">
-  <a href="https://mahimapaseda.vercel.app/projects"><strong>Explore all 10+ projects on Portfolio →</strong></a>
+  <a href="https://www.mahimapaseda.lk/projects"><strong>Explore all 10+ projects on www.mahimapaseda.lk →</strong></a>
 </p>
 
 ---
@@ -167,8 +165,16 @@ gantt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MahimaPaseda&show_icons=true&theme=transparent&hide_border=true&title_color=F59E0B&icon_color=F59E0B&text_color=cbd5e1&bg_color=00000000" height="165" alt="Mahima Paseda GitHub Profile Statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahimaPaseda&layout=compact&theme=transparent&hide_border=true&title_color=F59E0B&text_color=cbd5e1&bg_color=00000000&langs_count=8" height="165" alt="Mahima Paseda Top Programming Languages on GitHub"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahimaPaseda&theme=github_dark" width="100%" alt="Mahima Paseda GitHub Contribution Summary"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahimaPaseda&theme=github_dark" height="175" alt="Mahima Paseda GitHub Profile Statistics"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahimaPaseda&theme=github_dark" height="175" alt="Mahima Paseda Top Commit Languages on GitHub"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=MahimaPaseda&theme=transparent&hide_border=true&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" alt="Mahima Paseda GitHub Streak Statistics"/>
 
 </div>
 
@@ -217,6 +223,6 @@ You can explore live demos and case studies on his [Official Website (www.mahima
 
 <img src="https://komarev.com/ghpvc/?username=MahimaPaseda&color=f59e0b&style=flat-square&label=Profile+Views" alt="GitHub Profile Views Counter"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:D97706&height=90&section=footer" width="100%" alt="Decorative slate and amber wave footer"/>
+<img src="./assets/footer-wave.svg" width="100%" alt="Decorative slate and amber wave footer"/>
 
 </div>

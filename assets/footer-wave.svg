@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" preserveAspectRatio="none" role="img" aria-label="Decorative slate and amber wave footer">
+  <defs>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <linearGradient id="waveHighlight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#fbbf24" stop-opacity="0.45"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,42 C240,84 460,4 720,44 C940,78 1080,18 1200,36 L1200,90 L0,90 Z" fill="url(#waveHighlight)"/>
+  <path d="M0,54 C280,12 520,84 820,40 C1000,14 1110,56 1200,44 L1200,90 L0,90 Z" fill="url(#waveGrad)"/>
+</svg>
+
